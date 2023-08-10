@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import removeFirstCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-remove-first-code-point@esm/index.mjs';
+import removeFirstCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-remove-first-code-point@v0.0.1-esm/index.mjs';
 ```
 
 #### removeFirstCodePoint( str, n )
@@ -68,7 +68,7 @@ out = removeFirstCodePoint( 'foo bar', 10 );
 <body>
 <script type="module">
 
-import removeFirstCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-remove-first-code-point@esm/index.mjs';
+import removeFirstCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-remove-first-code-point@v0.0.1-esm/index.mjs';
 
 var str = removeFirstCodePoint( 'presidential election', 1 );
 // returns 'residential election'
