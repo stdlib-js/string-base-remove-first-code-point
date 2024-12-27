@@ -115,6 +115,14 @@ str = removeFirstCodePoint( 'अनुच्छेद', 1 );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/string-base/remove-last-code-point`][@stdlib/string/base/remove-last-code-point]</span><span class="delimiter">: </span><span class="description">remove the last Unicode code point of a string.</span>
+-   <span class="package-name">[`@stdlib/string-base/remove-first-grapheme-cluster`][@stdlib/string/base/remove-first-grapheme-cluster]</span><span class="delimiter">: </span><span class="description">remove the first grapheme cluster (i.e., user-perceived character) of a string.</span>
+-   <span class="package-name">[`@stdlib/string-base/remove-first`][@stdlib/string/base/remove-first]</span><span class="delimiter">: </span><span class="description">remove the first UTF-16 code unit of a string.</span>
+
 </section>
 
 <!-- /.related -->
@@ -190,6 +198,16 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/string-base-remove-first-code-point/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/string-base-remove-first-code-point/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/string/base/remove-last-code-point]: https://github.com/stdlib-js/string-base-remove-last-code-point
+
+[@stdlib/string/base/remove-first-grapheme-cluster]: https://github.com/stdlib-js/string-base-remove-first-grapheme-cluster
+
+[@stdlib/string/base/remove-first]: https://github.com/stdlib-js/string-base-remove-first
+
+<!-- </related-links> -->
 
 </section>
 
